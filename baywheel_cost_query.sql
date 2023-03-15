@@ -1,5 +1,5 @@
 -- main table
--- frist query
+-- first query
 -- get cost of each trip by converting trip duration by cost rate
 
 SELECT *,
